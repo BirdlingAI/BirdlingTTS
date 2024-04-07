@@ -3,6 +3,8 @@
 
 <h3>专业音频领域高可控性情绪人声合成 Emotion-controllable Text-to-Speech Synthesis with Studio Workflow </h3>
 
+**详情可查看我们的介绍视频 [TBA]**
+
 <br>
 
 ## 下载链接：
@@ -15,18 +17,18 @@
 
 <br>
 
-## Demo生成效果：
+## TTS 生成效果：
 
-强尼银手愤怒（中文）
+强尼银手愤怒（中文）：
 [愤怒中文.webm](https://github.com/BirdlingAI/BirdlingTTS/assets/166295693/bcf10878-a8d9-4cea-8ce3-044e962925e6)
 
-二次元少女哭泣（中文）
+二次元少女哭泣（中文）：
 [哭泣中文.webm](https://github.com/BirdlingAI/BirdlingTTS/assets/166295693/96fd8b96-29d5-46c8-b0d6-0b5b7ee68532)
 
-静凛愉悦（日语）
+静凛愉悦（日语）：
 [开心日语.webm](https://github.com/BirdlingAI/BirdlingTTS/assets/166295693/324469c8-f190-45ca-a10d-c9d67573aac7)
 
-明日方舟W叙述（英文）
+明日方舟W叙述（英文）：
 [叙述英语.webm](https://github.com/BirdlingAI/BirdlingTTS/assets/166295693/f0e86695-6589-45b8-9100-e2a366345100)
 
 <br>
@@ -47,6 +49,32 @@
 
 <br>
 
+## 环境要求：
+
+ **硬件要求：** 
+ 
+ **软件：** 
+
+<br>
+
+## 待办清单
+
+- [ ] **高优先级：**
+
+  - [ ] Windows版上线。
+  - [ ] 中、英、日文男女共30种预设音色上线。
+  - [ ] Mac版上线。
+  - [ ] VST插件支持及预设插件上线。
+  - [ ] VST插件版本上线。
+  - [ ] Unity/UE插件版本上线。
+
+- [ ] **Features:**
+  - [ ] 更多小语种支持。
+  - [ ] TTS 语速、音高的精细控制。
+  - [ ] 增强的 TTS 情感控制。
+  - [ ] 多音字配置。
+  - [ ] 模型热更新功能。
+  - [ ] HIFI音质保存下载。
 
 
 
