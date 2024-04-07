@@ -1,4 +1,6 @@
 # BirdlingTTS 百灵AI情绪人声合成
+[![Open Homepage](https://img.shields.io/badge/%E5%AE%98%E7%BD%91-Birdling.tech-blue?link=https%3A%2F%2Fbirdling.tech%2F)](https://birdling.tech/)
+
 专业音频领域高可控性情绪人声合成 Emotion-controllable Text-to-Speech Synthesis with Studio Workflow 
 <br><br>
 
