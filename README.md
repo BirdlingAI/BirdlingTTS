@@ -62,6 +62,7 @@
 <br>
 
 ## 支持专业音频软件列表：
+<img width="1620" alt="123123" src="https://github.com/BirdlingAI/BirdlingTTS/assets/166295693/80f6f230-e8e3-44d6-9c55-65b893075dce">
 
 <br>
 
