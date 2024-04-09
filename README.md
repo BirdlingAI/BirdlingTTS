@@ -67,6 +67,7 @@
 <br>
 
 ## 合作伙伴：
+<img width="1350" alt="321321" src="https://github.com/BirdlingAI/BirdlingTTS/assets/166295693/a056c0e8-95a6-4c6a-a5cd-1f9d0f5a654f">
 
 <br>
 
